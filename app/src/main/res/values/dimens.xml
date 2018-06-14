@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_task1_padding">10dp</dimen>
+    <dimen name="dimen_task1_text_output">18sp</dimen>
+    <dimen name="dimen_loading_text">18sp</dimen>
+</resources>

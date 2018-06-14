@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Assessments</string>
+    <string name="task_1">Task1</string>
+    <string name="task_2">Task2</string>
+    <string name="text_task1">Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.</string>
+    <string name="text_task1_input_hint">Enter the input (For example 3, 4, -1, 1)</string>
+    <string name="text_task1_button">Find Missed Lowest No</string>
+    <string name="text_output">The missed lowest no is %d</string>
+    <string name="text_not_valid_input">Enter the valid input</string>
+    <string name="text_loading_please_wait">Loading.. Please Wait&#8230;</string>
+    <string name="text_something_went_wrong">Something went wrong! Please try again later!!</string>
+    <string name="text_no_internet_connection">No Internet Connection!</string>
+</resources>
